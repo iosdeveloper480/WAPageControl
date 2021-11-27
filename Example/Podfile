@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WAPageControl_Tests' do
+  pod 'WAPageControl', :path => '../'
+  
+  
+end
